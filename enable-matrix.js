@@ -40,3 +40,4 @@ basic.forever(() => {
     }
 })
 
+// this is based on the original guide but includes the led matrix on the microbit which works in conjuction with the leds on the breadboard
