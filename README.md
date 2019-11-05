@@ -7,5 +7,5 @@ video: https://imgur.com/a/Bw8dBqu
 
 ### Part 2 LED Matrix
 for this part i took the original reference with the modification and added in a screensaver to work in conjunction with the leds on the breadboard
-video:
+video:  https://imgur.com/a/Wmf75AE
 
