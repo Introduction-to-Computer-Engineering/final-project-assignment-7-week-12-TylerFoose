@@ -32,3 +32,5 @@ basic.forever(function () {
         control.waitMicros(1000)
     }
 })
+
+// this is the original program used as a guide for the project 
