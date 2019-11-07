@@ -9,3 +9,6 @@ video: https://imgur.com/a/Bw8dBqu
 for this part i took the original reference with the modification and added in a screensaver to work in conjunction with the leds on the breadboard
 video:  https://imgur.com/a/Wmf75AE
 
+### part 3 LED Screensaver 
+for this part i made the leds on the breadboard work in conjunction with the screensaver 
+video:https://imgur.com/a/ncSsR40
