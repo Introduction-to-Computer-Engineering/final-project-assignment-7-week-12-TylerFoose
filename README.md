@@ -12,3 +12,8 @@ video:  https://imgur.com/a/Wmf75AE
 ### part 3 LED Screensaver 
 for this part i made the leds on the breadboard work in conjunction with the screensaver 
 video:https://imgur.com/a/ncSsR40
+
+## soil sensor 
+### part 1
+for this part we made a matrix that lights up on TIL button pushed
+https://imgur.com/a/iORQLwX
