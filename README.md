@@ -17,3 +17,6 @@ video:https://imgur.com/a/ncSsR40
 ### part 1
 for this part we made a matrix that lights up on TIL button pushed
 https://imgur.com/a/iORQLwX
+
+#### part 4
+for this part we wrote a code to automatically take a reading of the sensor and then averages it to create baselines. it then takes a new reading and uses baseline to plot a graph on the microbit.
